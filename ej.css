@@ -1,0 +1,16 @@
+*{
+    display: block;
+}
+
+title {
+    font-size: xx-large;
+}
+
+p {
+    color: blue;
+}
+span {
+    color: black;
+    background-color: yellow;
+    display: inline;
+}
