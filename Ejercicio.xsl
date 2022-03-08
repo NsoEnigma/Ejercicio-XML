@@ -11,10 +11,6 @@
 		 <h2>Titulo:
 	     <xsl:value-of select="title"/>
 	     </h2>
-		 
-		 <p>Autor:
-	     <xsl:value-of select="author"/>
-	     </p>
 	     
 	     <p>Año:
 	     <xsl:value-of select="year"/>
@@ -22,7 +18,7 @@
 	     
 	     <p>Precio:
       		<span>
-         		<xsl:value-of select="price"/> €
+         		<xsl:value-of select="price"/> euros
          	</span>
 	     </p>
 	     
