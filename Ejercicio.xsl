@@ -20,9 +20,9 @@
 	     <xsl:value-of select="year"/>
 	     </p>
 	     
-	     <p>
-      		<span>Precio:
-         		<xsl:value-of select="price"/>
+	     <p>Precio:
+      		<span>
+         		<xsl:value-of select="price"/> €
          	</span>
 	     </p>
 	     
